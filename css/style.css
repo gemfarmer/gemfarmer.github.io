@@ -151,6 +151,7 @@
 		background-attachment: fixed;
 		background-size: 75%;
 		background-position: center 20px;
+		font-weight: bold;
 	}
 	#wrapper{
 		margin-top:0;
@@ -162,6 +163,7 @@
 	.links{
 		color:#333;
 		font-size:1.4em;
+		
 		margin:0 5px;
 	}
 	.separate{
@@ -171,8 +173,9 @@
 @media (max-width: 300px){
 	.background{
 		background-attachment: fixed;
-		background-size: 85%;
+		background-size: 100%;
 		background-position: center 10px;
+		font-weight: 600;
 	}
 	#wrapper{
 		margin-top:0;
@@ -184,5 +187,6 @@
 	.links{
 		color:#333;
 		font-size:1.3em;
+		
 		margin:0 5px;
 	}
